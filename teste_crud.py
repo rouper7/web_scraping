@@ -1,3 +1,4 @@
+#Use Jupyter to make the code work and change the file extension to .ipynb
 # %%
 from selenium import webdriver
 from selenium.webdriver.common.by import By
